@@ -1,2 +1,0 @@
-# HappyBirthdayCard
-My first repository
